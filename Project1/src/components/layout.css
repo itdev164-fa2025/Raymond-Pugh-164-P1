@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #2b6cb0;
+  --size-content: 800px;
+  --size-gutter: 1.5rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --font-sm: 0.875rem;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
